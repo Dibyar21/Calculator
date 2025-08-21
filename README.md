@@ -12,6 +12,6 @@ It supports basic arithmetic operations (addition, subtraction, multiplication, 
 - Works smoothly on desktop and mobile
 
 ### 🚀 Live Demo
-[Click here to use the Calculator](https://your-username.github.io/calculator/)
+[Click here to use the Calculator](https://dibyar21.github.io/Calculator/)
 
 
